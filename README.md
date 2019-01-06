@@ -1,1 +1,3 @@
-# test-repository
+# maven-project
+
+Simple Maven Project
